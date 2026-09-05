@@ -1,0 +1,44 @@
+#######################################
+# Syntax coloring map for HT_HC01
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HT_HC01	KEYWORD1
+Config	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+hardReset	KEYWORD2
+holdInReset	KEYWORD2
+releaseReset	KEYWORD2
+wakeAssert	KEYWORD2
+wakeDeassert	KEYWORD2
+wakeAndWait	KEYWORD2
+allowSleep	KEYWORD2
+isBusyAsserted	KEYWORD2
+waitForBusy	KEYWORD2
+attachSPI	KEYWORD2
+setClock	KEYWORD2
+select	KEYWORD2
+deselect	KEYWORD2
+transferByte	KEYWORD2
+transfer	KEYWORD2
+writeBytes	KEYWORD2
+readBytes	KEYWORD2
+attachChipInterrupt	KEYWORD2
+detachChipInterrupt	KEYWORD2
+irqAsserted	KEYWORD2
+config	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PIN_UNUSED	LITERAL1
